@@ -1,6 +1,6 @@
-# Hi there, I'm Pratik [ DjArtimus ] 👋
+# Hi there 👋🏻, I'm Pratik < DjArtimus >
 
-I'm a passionate Full Stack Developer and creative thinker who loves bringing innovative ideas to life through technology. My journey in web development has been an exciting adventure, filled with learning, challenges, and a lot of coding!
+I'm a Full Stack Developer and creative thinker who loves bringing innovative ideas to life through technology. My journey in web development has been an exciting adventure, filled with learning, challenges, and a lot of coding!
 
 ## 🚀 About Me
 
